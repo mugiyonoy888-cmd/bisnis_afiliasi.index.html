@@ -77,3 +77,4 @@ print(f"🎬 KONTEN READY : {konten_trending}")
 print(f"🔗 LINK AFILIASI DITEMPEL: {link_komisi_anda}")
 print(f"📝 CAPTION OTOMATIS: 'Gak mau ketinggalan tren? Cek produk diskon viral yang dipakai di video ini di sini ya: {link_komisi_anda} #shorts'")
 print(f"💤 STATUS AMAN: Sukses proses konten pertama. Mengaktifkan jeda {menit_jeda} menit sesuai rumus anti-banned.")
+        
